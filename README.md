@@ -74,13 +74,13 @@ Z toho vyplývá, že vývoj mezd není stabilní a obsahuje i poklesy.
 ### 2. Kupní síla
 Kupní síla se v čase zvýšila.
 
-V prvním sledovaném období bylo možné koupit:
-- 1313 litrů mléka
-- 1175 kg chleba
+V prvním sledovaném období (2006) bylo možné koupit:
+- 1437 litrů mléka
+- 1287 kg chleba
 
-V posledním období:
-- 1507 litrů mléka
-- 1232 kg chleba
+V posledním období (2018):
+- 1641 litrů mléka
+- 1342 kg chleba
 
 To znamená, že mzdy rostly rychleji než ceny těchto potravin.
 
