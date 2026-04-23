@@ -96,9 +96,11 @@ To z něj činí nejstabilnější (resp. nejméně rostoucí) položku ze všec
 ---
 
 ### 4. Ceny vs. mzdy
-Ano, existuje rok, kdy ceny potravin rostly výrazně více než mzdy.
+Na základě analýzy nebyl identifikován žádný rok, ve kterém by meziroční růst cen potravin převýšil růst mezd o více než 10 procentních bodů.
 
-V roce 2013 mzdy klesly o −6,76 %, zatímco ceny potravin vzrostly o +5,10 %. Rozdíl činil +11,86 procentního bodu.
+Nejvyšší rozdíl byl zaznamenán v roce 2013, kdy činil 6,66 procentního bodu. Tento rozdíl však nedosahuje stanovené hranice 10 p.b.
+
+Z toho vyplývá, že i když ceny v některých letech rostly rychleji než mzdy, rozdíl nebyl natolik výrazný.
 
 ---
 
