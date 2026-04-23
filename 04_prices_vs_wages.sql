@@ -45,6 +45,5 @@ FROM wages_yoy w
 JOIN prices_yoy p USING(year)
 WHERE w.prev_wage IS NOT NULL
   AND p.prev_price IS NOT NULL
-  AND (p.price_pct_change - w.wage_pct_change) > 10
 ORDER BY w.year;
 	
