@@ -110,3 +110,11 @@ Růst HDP má vliv na vývoj mezd, ale méně na ceny potravin.
 Například v roce 2007 vzrostlo HDP o +5,57 % a mzdy o +6,19 %. Naopak v roce 2012 HDP kleslo o −0,79 %, ale ceny potravin vzrostly o +6,73 %.
 
 Z toho vyplývá, že vztah mezi HDP a mzdami je silnější než mezi HDP a cenami potravin.
+
+## Závěr
+
+Na základě provedené analýzy lze říci, že mzdy v České republice mají dlouhodobě rostoucí trend, i když v některých letech dochází i k jejich poklesu. Zároveň se ukázalo, že kupní síla obyvatel se v čase zvyšuje, což znamená, že růst mezd byl v případě vybraných potravin rychlejší než růst jejich cen.
+
+Dále bylo zjištěno, že neexistuje rok, ve kterém by ceny potravin rostly výrazně více než mzdy (o více než 10 procentních bodů). Vztah mezi HDP a mzdami se ukázal jako silnější než vztah mezi HDP a cenami potravin, což naznačuje, že ekonomický růst se promítá především do vývoje mezd.
+
+Celkově lze říci, že i přes růst cen potravin dochází ke zlepšení dostupnosti základních potravin pro obyvatele České republiky.
